@@ -1,0 +1,19 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+User-Agent: Bingbot
+User-Agent: DuckDuckBot
+User-Agent: Slurp
+User-Agent: Baiduspider
+User-Agent: YandexBot
+User-Agent: Applebot
+User-Agent: facebookexternalhit
+User-Agent: Twitterbot
+User-Agent: Linespider
+User-Agent: NaverBot
+User-Agent: Yeti
+Allow: /
+
+Host: https://vrsc-2024.utvirtual.tech
+Sitemap: https://vrsc-2024.utvirtual.tech/sitemap.xml
